@@ -1,0 +1,15 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sim_1/new/TB_Coder.v,1626467762,verilog,,,,TB_Coder;TB_CoderEn,,,,,,,,
+C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sim_1/new/TB_FA.v,1627074307,verilog,,,,TB_FA,,,,,,,,
+C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sim_1/new/TB_adderblock.v,1626465339,verilog,,,,TB_adderblock,,,,,,,,
+C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sim_1/new/TB_counter.v,1626466808,verilog,,,,TB_counter;TB_counterNegative,,,,,,,,
+C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sim_1/new/TB_mux21.v,1626463911,verilog,,,,TB_mux21;TB_mux41,,,,,,,,
+C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sources_1/new/FullAdder.v,1627074030,verilog,,C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sim_1/new/TB_FA.v,,FullAdderFull;FullAdderHalf,,,,,,,,
+C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sources_1/new/adderBlock.v,1626464907,verilog,,C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sim_1/new/TB_adderblock.v,,adderBlock;mux_41_struc,,,,,,,,
+C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sources_1/new/coders.v,1626321736,verilog,,C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sim_1/new/TB_Coder.v,,decoders;encoders,,,,,,,,
+C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sources_1/new/mux_21_struc.v,1625864537,verilog,,C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sim_1/new/TB_mux21.v,,mux_21_struc,,,,,,,,
+C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sources_1/new/poscount.v,1626466777,verilog,,C:/Users/mcbea/NGCP/Summer2021_July_9/project_1/project_1.srcs/sim_1/new/TB_counter.v,,negCount;posCount,,,,,,,,
